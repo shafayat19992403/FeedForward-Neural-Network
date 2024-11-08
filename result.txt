@@ -1,0 +1,49 @@
+model1_0.005:
+Train Loss: 0.3228, Train Accuracy: 0.9038, Train Macro F1 Score: 0.9036
+Val Loss: 0.4439, Val Accuracy: 0.8785, Val Macro F1 Score: 0.8782
+
+model1_0.001:
+Train Loss: 0.2312, Train Accuracy: 0.9310, Train Macro F1 Score: 0.9309
+Val Loss: 0.3938, Val Accuracy: 0.8860, Val Macro F1 Score: 0.8859
+
+model1_0.0005:(best)
+Train Loss: 0.2120, Train Accuracy: 0.9383, Train Macro F1 Score: 0.9382
+Val Loss: 0.3980, Val Accuracy: 0.8877, Val Macro F1 Score: 0.8878
+
+model1_0.0001:
+Train Loss: 0.2079, Train Accuracy: 0.9398, Train Macro F1 Score: 0.9398
+Val Loss: 0.4113, Val Accuracy: 0.8855, Val Macro F1 Score: 0.8855
+
+
+model2_0.005:
+Train Loss: 0.3182, Train Accuracy: 0.9095, Train Macro F1 Score: 0.9093
+Val Loss: 0.4292, Val Accuracy: 0.8745, Val Macro F1 Score: 0.8759
+
+model2_0.001:(best)
+Train Loss: 0.2146, Train Accuracy: 0.9379, Train Macro F1 Score: 0.9377
+Val Loss: 0.3801, Val Accuracy: 0.8888, Val Macro F1 Score: 0.8903
+
+model2_0.0005:
+Train Loss: 0.1960, Train Accuracy: 0.9444, Train Macro F1 Score: 0.9443
+Val Loss: 0.4002, Val Accuracy: 0.8855, Val Macro F1 Score: 0.8869
+
+model2_0.0001:
+Train Loss: 0.1839, Train Accuracy: 0.9488, Train Macro F1 Score: 0.9487
+Val Loss: 0.4017, Val Accuracy: 0.8840, Val Macro F1 Score: 0.8852
+
+model3_0.005:
+Train Loss: 0.2481, Train Accuracy: 0.9352, Train Macro F1 Score: 0.9350
+Val Loss: 0.4360, Val Accuracy: 0.8827, Val Macro F1 Score: 0.8834
+
+model3_0.001:
+Train Loss: 0.1962, Train Accuracy: 0.9607, Train Macro F1 Score: 0.9606
+Val Loss: 0.5107, Val Accuracy: 0.8817, Val Macro F1 Score: 0.8817
+
+
+model3_0.0005(best):
+Train Loss: 0.1867, Train Accuracy: 0.9655, Train Macro F1 Score: 0.9654
+Val Loss: 0.5070, Val Accuracy: 0.8905, Val Macro F1 Score: 0.8910
+
+model3_0.0001:
+Train Loss: 0.1786, Train Accuracy: 0.9683, Train Macro F1 Score: 0.9682
+Val Loss: 0.5341, Val Accuracy: 0.8823, Val Macro F1 Score: 0.8829
